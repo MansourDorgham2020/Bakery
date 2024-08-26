@@ -1,0 +1,98 @@
+.head {
+  background-image: url(images/drew-coffman-1872.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
+.dis {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Alegreya Sans", sans-serif;
+  padding: 20px;
+}
+.container {
+  text-align: center;
+}
+.con {
+  width: 8%;
+  height: 75px;
+  background-color: transparent;
+  color: rgb(211, 132, 28);
+}
+.con2 {
+  width: 8%;
+  height: 75px;
+  background-color: transparent;
+  color: antiquewhite;
+}
+.head2 {
+  margin-top: 50px;
+}
+.item {
+  width: 48%;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: "ABeeZee", sans-serif;
+  margin: 25px;
+}
+.test {
+  display: inline-block;
+  vertical-align: middle;
+}
+.test img {
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+li {
+  list-style: none;
+}
+.demo {
+  width: 48%;
+  float: left;
+  vertical-align: middle;
+  margin: 30px;
+  font-family: "ABeeZee", sans-serif;
+}
+.parent {
+  margin-top: 50px;
+  background-color: #f8f8f8;
+}
+.clearfix {
+  clear: both;
+}
+.id {
+  padding-top: 35px;
+  text-align: center;
+  font-family: "ABeeZee", sans-serif;
+}
+.M {
+  float: left;
+  width: 30%;
+  margin: 25px;
+  font-family: "ABeeZee", sans-serif;
+}
+.clear {
+  clear: both;
+}
+.section{
+  background-color: #f8f8f8;
+  margin-top: 50px;
+
+}
+.man {
+  width: 40%;
+  float: left;
+  margin: 50px;
+  vertical-align: middle;
+  font-family: "ABeeZee", sans-serif;
+}
+.test2 {
+  float: left;
+}
+.test2 img {
+  background-color: #8e7754;
+  border-radius: 50%;
+}
+.clear {
+  clear: both;
+}
